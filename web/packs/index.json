@@ -1,6 +1,18 @@
 {
   "packs": [
-    "AlcoLan.json"
+    "AlcoLan.json",
+    "Sarahsteckers.json",
+    "Xae_Lan.json",
+    "Tianguancifu3.json",
+    "HunchHuedCeleb_by_fStikBot.json",
+    "SarahAndersenEng.json",
+    "MDZSMEMES1.json",
+    "animu1_5.json",
+    "Sad_Kyaru_chan.json",
+    "FormybroZarina.json",
+    "nekostickerpack210.json",
+    "Alglgni_by_fStikBot.json",
+    "fvdetslpack.json"
   ],
   "homeserver_url": "https://nitro.chat"
 }
